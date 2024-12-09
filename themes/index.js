@@ -450,11 +450,18 @@ export const themes = {
     bg_color: "000000",
   },
   calm_pink: {
+    title_color: "ff6bee",
+    text_color: "ffc9f9",
+    icon_color: "0a07ab",
+    border_color: "716ef5",
+    bg_color: "f57ff5",
+  },
+  hololive_kobokanaeru: {
     title_color: "e07a5f",
-    text_color: "edae49",
-    icon_color: "ebcfb2",
-    border_color: "e1bc29",
-    bg_color: "2b2d40",
+    text_color: "498a8a",
+    icon_color: "8cbdbd",
+    border_color: "188080",
+    bg_color: "b1b5b5",
   },
   ambient_gradient: {
     title_color: "ffffff",
