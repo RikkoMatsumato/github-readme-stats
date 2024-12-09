@@ -456,7 +456,7 @@ export const themes = {
     border_color: "716ef5",
     bg_color: "f57ff5",
   },
-  hololive_kobokanaeru: {
+  kobokanaeru: {
     title_color: "e07a5f",
     text_color: "498a8a",
     icon_color: "8cbdbd",
