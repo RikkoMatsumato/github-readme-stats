@@ -456,6 +456,13 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+    hololive_kobokanaeru: {
+    title_color: "6bfffd",
+    text_color: "7d8a8a",
+    icon_color: "206da8",
+    border_color: "78bfbd",
+    bg_color: "d7dede",
+  },
   ambient_gradient: {
     title_color: "ffffff",
     text_color: "ffffff",
